@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar ul{
+     display: flex;
+     gap:20px; 
+      
+}
+.navbar ul li a {
+    text-decoration: none;
+}
+.navbar ul li{
+    list-style: none;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    width:90%
+}
+.color{
+    color: ;
+}
+.button {
+    border-radius: 20px ;
+}

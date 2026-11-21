@@ -14,5 +14,5 @@ A full-stack web application that validates email addresses and phone numbers us
  > currently in Development
 
  # Author Details
-  ## ** Name :- Mukhiya **
+  ## **Name** :- Mukhiya 
  
